@@ -5,3 +5,6 @@ If you have any questions, comments, or concerns, please feel free to message me
 This repository will get edits periodically or additions that I feel need to be made.
 The goal will be to complete one module of Python and JS. Also I will attempt to complete 2 modules of SQL.
 The modules will have more description in the readme file of each.
+
+Addendum, time has been constrained recently, so I have not been able to consistently work on coding as much as 
+desired. We have been completing a big project at work, which is now finished so I will be able to devote more time.
